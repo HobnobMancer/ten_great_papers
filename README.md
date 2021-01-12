@@ -53,3 +53,31 @@ That there are so many of these papers makes it difficult to recommend any singl
 - BONUS PAPER: Erren, T. C., Slanger, T. E., Groß, J. V., Bourne, P. E., & Cullen, P. (2015). Ten simple rules for lifelong learning, according to Hamming. *PLoS Computational Biology*, 11(2), e1004020. [http://doi.org/10.1371/journal.pcbi.1004020](http://doi.org/10.1371/journal.pcbi.1004020)
 
     This is a really good set of points giving general advice on how to keep an open, receptive mind. This doesn't just aid lifelong learning, but helps keep life interesting.
+
+## New to coding and need some help?
+
+Learning to code is like learning any new skill: it takes time, practise and is helped along by good learning material! Below are some resources to help those who are just starting out or want to further develop their Pythonic coding skills:
+
+### Learning Python
+Home and Learn (https://www.homeandlearn.uk/index.html)
+This is a Python course for beginners. It covers both Python and the basics of programming. I highly recommend for those new to programming and software development!
+
+w3schools (https://www.w3schools.com/python/)
+This website has interactive web articles with great try-it-yourself sections. These sections allow you to submit code that their system runs and checks it produces the correct output, and encourages you to play around with the code to learn first-hand what your code it doing. It is an excellent resource if you have no coding experience.
+
+RealPython (https://realpython.com/)
+This is a lexicon of Python courses, covering every Python topic from introductory to advanced. Some courses or lessons are on general tasks you may wish to complete (such as retrieving data from a database, and statistical evaluation of data) to having courses dedicated to populat Python libraries, such as the Pandas library for dataframe generation. The courses and lessons at RealPython include both written articles and videos.
+
+Software Carpentry (https://software-carpentry.org/lessons/)
+These courses are offered in both aelf guided and in-person (COVID allowing) formats, covering Python, R and shell (the Linux terminal). These courses are excellend for developing the nesseccary foundations for large bioinformatics projects.
+
+### Testing your skills!
+
+It is recommended that you do test your skills and coding quality. Most of us to do this by asking for others to review are code, but that truely requires you to have written a decent amount of code to be tested and evaluated by a collegue, which is not very practical when you are first starting out. List below are two resources that can test your coding ability and ability to solve problems by writing a script. One of the biggest learning curves of bioinformatics, computer science and software engineering in general is learning how to break down a large problem into smaller problems that a computer can solve. This is similar to when you were given the very long worded mathematical questions at school and you had to determine what the overall problem was to solve, then break that problem down into the necessary steps for you to then answer the question.
+
+Codility (https://app.codility.com/programmers/)
+This provides general computing and mathematical problems to solve. The advanced software evaluates the correctness of your code, it's scalability and how efficienctly you have written your code. Codility is used frequently in industry for individuals to provide evidence of their coding ability. Sometimes companies submit problems for applicants to then try and solve.
+
+Rosalind (http://rosalind.info/problems/locations/)
+Rosalind provides bioinformatic-based problems. This is a really good resource for learning how to break down a complex biological problem into multiple, smaller problems you can solve using a computer. Each time an answer is submitted the provided data and solution for the question changes, forcing you to write code that solves the problem and not simply write code that provides the correct answer for the one example the question has given you.
+
